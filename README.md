@@ -1,5 +1,5 @@
 # Kerayko' s House
-### Hi there, I'm Kerayko! 👋
+### Hi there👋
 
 <!--
 **Kerayko/Kerayko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
