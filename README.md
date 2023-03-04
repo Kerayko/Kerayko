@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Blog](https://img.shields.io/badge/blog-vuepress-lilac)](https://Kerayko.github.io/)
 [![Mail](https://img.shields.io/badge/NetEase-Email-blue)](mailto:cutting_edge_gzh@163.com)
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(1).gif)![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(1).gif)
+![](https://github.com/Kerayko/Introduction/blob/main/giphy%20(1).gif)
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 ## ⚡Interests:     
 ### :name_badge:Object Detection.
