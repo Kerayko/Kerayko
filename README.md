@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm Kerayko, still a student in China, but have a heart to learn more skills and search for more new technologies.
-- 🔭 I’m currently studying on Xiamen University.
-- 🌱 I’m currently learning SLAM.
-- 👯 I’m looking to collaborate on Computer Vision.
+- 🔭 I’m currently studying on HKUST(GZ) University.
+- 🌱 I’m currently learning AI4DB.
+- 👯 I’m not a diligent guy so be patient.
 
 [![Github](https://img.shields.io/github/followers/Kerayko?label=Github&style=social)](https://github.com/Kerayko)
 [![Blog](https://img.shields.io/badge/blog-博客园-purple)](https://www.cnblogs.com/alexgzh/)
